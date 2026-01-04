@@ -1,0 +1,5 @@
+{
+  "name": "Ethiopia Tax & Net Pay Calculator",
+  "description": "A comprehensive tool for calculating net salary under the latest Ethiopian tax law (Proclamation No. 979/2016), including income tax brackets, social security, and leave value analysis.",
+  "requestFramePermissions": []
+}
